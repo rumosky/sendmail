@@ -1,0 +1,53 @@
+/*
+ * @Email: rumosky@163.com
+ * @Author: rumosky
+ * @Github: https://github.com/rumosky
+ * @Date: 2019-06-1 14:44:41
+ * @LastEditors: rumosky
+ * @LastEditTime: 2019-06-24 15:25:42
+ */
+
+body {
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+    padding-left: 0;
+    background-image: url(../img/bg.jpg)
+}
+
+.main {
+    display: -webkit-flex;
+    /* Safari */
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.introduce {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 75px;
+    width: 100%;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.abstract {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #72F3DC;
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.modal-content {
+    width: 750px;
+    max-width: 900px;
+}
