@@ -4,7 +4,7 @@
 
 web版邮件发送页面
 
-Gitee：https://gitee.com/rumosky_admin/sendmail.git
+Gitee：https://github.com/rumosky/sendmail.git
 
 #### 框架
 
@@ -14,4 +14,4 @@ jQuery
 
 ### 详情
 
-[使用phpmailer发送邮件](https://rumosky.com/archives/138)
+[使用phpmailer发送邮件](https://rumosky.com/archives/27)
