@@ -4,8 +4,6 @@
 
 web版邮件发送页面
 
-Gitee：https://github.com/rumosky/sendmail.git
-
 #### 框架
 
 引用`phpmailer`
